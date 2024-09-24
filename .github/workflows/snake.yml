@@ -1,7 +1,7 @@
 permissions:
   contents: write
 
-name: Generate Snake
+name: Generate Snake for Current Year
 
 on:
   schedule:
@@ -28,6 +28,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      # Sử dụng snk để tạo ra file snake SVG cho năm hiện tại
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
@@ -49,7 +50,6 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations
-          # Thêm để đảm bảo tạo branch nếu nhánh chưa tồn tại
           create_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
