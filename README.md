@@ -35,8 +35,8 @@
 <br/>
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img align="center" src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
-    <img align="center" src="https://skillicons.dev/icons?i=blockchain,solidity,rust,aws,ethereum,solana,move,aptos,r,c" />
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+    <img align="center" src="https://skillicons.dev/icons?i=blockchain,solidity,rust,aws,ethereum,solana,move,aptos,r,c,mysql" />
 </div>
 
 <br/>
