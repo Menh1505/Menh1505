@@ -4,16 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Menhythien!;" />
 </h1>
 
-<h3 align="center">🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳A passionate Web developer from Viet Nam  🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳</h3>
+<h3 align="center">🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳A passionate blockchain developer from Viet Nam  🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳</h3>
 
 <br/>
 
 
 <div align="center">
  
- 🔭 I’m currently working on **Visual Studio Code Extension**
+ 🔭 I’m currently working on **Code of Conduct Company**
  
- 🌱 I’m currently learning **Solidity, Rust, Aptos, Movement, Nodejs, AWS**
+ 🌱 I’m currently learning **Solidity, Rust, Aptos, Movement, Nodejs, AWS, LLMs**
 
  </div>
 
