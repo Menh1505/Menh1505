@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Code of Conduct Company**
+ 🔭 I’m currently building on **MoveVM Ecosystems**
  
- 🌱 I’m currently learning **Solidity, Rust, Aptos, Movement, Nodejs, AWS, LLMs**
+ 🌱 I’m currently improving my skills in **Optimize System, MoveVM Smart Contract, Developer Tools, APIs** 
 
  </div>
 
